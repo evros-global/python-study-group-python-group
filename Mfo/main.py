@@ -1,2 +1,3 @@
 url='https://www.indeed.com/q-USA-jobs.html'
-s/a
+mystring=20
+mystering
