@@ -5,5 +5,5 @@ b="new"
 a='Hi'
 b='new'
 print(f'{a} I am {b} one.')
-#You can also use
+#Yes, Its ok. You can also use.
 print("{} I am {} one.".format(a,b))
