@@ -13,6 +13,7 @@ print(8 ** 2)
 
 print(6 ** 3)
 
-sayı= int(input("sayı"))
-for i in sayı:
-    if(sayı)
+sayi= int(input("sayı"))
+for i in range(sayi):
+    if(sayi):
+        pass
