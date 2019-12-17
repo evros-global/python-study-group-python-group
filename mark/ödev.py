@@ -12,34 +12,4 @@ print(d)
 print(e)
 print(f)
 print(g)
-h="bir"
-j="iki"
-k="uc"
-l="dort"
-m="bes"
-n="alti"
-o="yedinci"
-print(h)
-print(j)
-print(k)
-print(l)
-print(m)
-print(n)
-print(o)
-p=1.1
-r=1.2
-s=1.3
-t=1.4
-v=1.5
-y=1.6
-z=1.7
-print(p)
-print(r)
-print(s)
-print(t)
-print(v)
-print(y)
-print(z)
-
-#its ok
 

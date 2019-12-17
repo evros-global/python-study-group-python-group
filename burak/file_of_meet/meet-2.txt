@@ -7,8 +7,8 @@
 		data tipleri yada başka işlemlerle ilgili google'da cheatsheet arama(pythoncheatsheet.org)
 
 	*kod çalıştırma hataları
-		*hata alındığında alınan hatayı google'lama
-		-stackoverflow,w3schools,python.org gibi sitelerin sonuçlarına daha çok dikkat edebilirsiniz
+		-hata alındığında alınan hatayı google'lama
+		-stackoverflow, w3schools, python.org gibi sitelerin sonuçlarına daha çok dikkat edebilirsiniz
 
 	*dökümantasyonları bulma
 		-docs.python.org/3.8/
