@@ -42,9 +42,25 @@ while a!=5:
     print(a)
     a+=1
 print("a nin son degeri:",a)"""
-a=1
+"""a=1
 while a<10:
     if a!=5:
         print(a)
     a+=1
-print("a nin son degeri",a)
+print("a nin son degeri",a)"""
+
+"""sayi=int(input("bir sayi gircek misin"))
+for i in range(3,sayi+1,3):
+    print(i)"""
+puan=0
+el_sayisi=0
+while puan<1000 and el_sayisi<6 :
+    oldurulen_adam=int(input("bu evde kac adam oldurdun?"))
+    puan=puan+oldurulen_adam*100
+    el_sayisi+=1
+if puan<1000 :
+    print("oyunu bitiremediniz")
+else :
+    print("oyunu",el_sayisi,"defada",puan,"puanla bitirdin")  
+      
+    
