@@ -55,7 +55,7 @@ for i in range(3,sayi+1,3):
 puan=0
 el_sayisi=0
 while puan<1000 and el_sayisi<6 :
-    oldurulen_adam=int(input("bu evde kac adam oldurdun?"))
+    oldurulen_adam=int(input("kac adam oldurdun ?"))
     puan=puan+oldurulen_adam*100
     el_sayisi+=1
 if puan<1000 :
